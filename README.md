@@ -1,6 +1,4 @@
-# 2048 游戏
+# 2048 
 
-在线玩：https://4ark.me/2048
-
-如果对您有帮助欢迎 Star！😋
+Tuấn rất vui khi giúp được bạn
 
